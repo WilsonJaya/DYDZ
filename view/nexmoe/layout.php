@@ -14,7 +14,7 @@
 			background-position:center bottom;
 			background-repeat:no-repeat;
 			background-attachment:fixed;
-			background-size: cover;
+			background-size: 100%;
 		}
 		.nexmoe-item
 		{
