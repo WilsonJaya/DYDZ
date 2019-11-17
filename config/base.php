@@ -1,7 +1,7 @@
 <?php return array (
   'site_name' => '南寻客的云储存',
   'password' => '2000521tjy',
-  'style' => 'material',
+  'style' => 'nexmoe',
   'onedrive_root' => '/',
   'cache_type' => 'secache',
   'cache_expire_time' => 3600,
