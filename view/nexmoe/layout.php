@@ -8,13 +8,13 @@
 	<style>
 		body
 		{
-			background-color:#f2f5fa;
+			/*background-color:#f2f5fa;*/
 			background-image: url(./view/nexmoe/rc.jpg);
 			padding-bottom:60px;
 			background-position:center bottom;
 			background-repeat:no-repeat;
 			background-attachment:fixed;
-			background-size: 100%;
+			background-size: 100% 100%;
 		}
 		.nexmoe-item
 		{
