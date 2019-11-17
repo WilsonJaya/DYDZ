@@ -1,5 +1,5 @@
 <?php return array (
-  'site_name' => '南寻客的秘密花园',
+  'site_name' => '南寻客的云储存',
   'password' => '2000521tjy',
   'style' => 'material',
   'onedrive_root' => '/',
